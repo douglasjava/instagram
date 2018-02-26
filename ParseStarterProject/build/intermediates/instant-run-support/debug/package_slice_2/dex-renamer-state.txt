@@ -1,0 +1,4 @@
+#Sun Feb 25 20:31:10 BRT 2018
+base.0=D\:\\Douglas\\workspace_mobile\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\40
+path.0=classes.dex
+renamed.0=classes.dex

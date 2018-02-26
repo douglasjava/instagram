@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\78deb04c26dfa9208ea53bdc68cc5fc4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\46741feffefaafc9d4327294861841fd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\1510223c2c3cc1342fd367c82d47458f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c124c38dd424986c5af8e76e1f345d1a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b89ad9889902cc8655e7e6f4efaf9e59\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c618bd6de357b83ca16e9d8b87290f92\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\aaa96a95e67df08457fd17cc4593c448\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dc3c4580b4bf76c526d68950fddebf1e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\5b2c8148aa5a7b61e4c5621ff7140c1d\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+	package
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-41:12
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:15:5-39:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\78deb04c26dfa9208ea53bdc68cc5fc4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\78deb04c26dfa9208ea53bdc68cc5fc4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\46741feffefaafc9d4327294861841fd\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\46741feffefaafc9d4327294861841fd\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\1510223c2c3cc1342fd367c82d47458f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\1510223c2c3cc1342fd367c82d47458f\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c124c38dd424986c5af8e76e1f345d1a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c124c38dd424986c5af8e76e1f345d1a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b89ad9889902cc8655e7e6f4efaf9e59\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b89ad9889902cc8655e7e6f4efaf9e59\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c618bd6de357b83ca16e9d8b87290f92\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c618bd6de357b83ca16e9d8b87290f92\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\aaa96a95e67df08457fd17cc4593c448\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\aaa96a95e67df08457fd17cc4593c448\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dc3c4580b4bf76c526d68950fddebf1e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dc3c4580b4bf76c526d68950fddebf1e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\5b2c8148aa5a7b61e4c5621ff7140c1d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\5b2c8148aa5a7b61e4c5621ff7140c1d\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:9-48
+meta-data#com.parse.APPLICATION_ID
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:21:9-23:52
+	android:value
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:24:9-26:56
+	android:value
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:26:13-53
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:25:13-48
+activity#com.parse.starter.activity.LoginActivity
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:28:9-35:20
+	android:label
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:27-74
+activity#com.parse.starter.activity.MainActivity
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:37:9-59
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:37:19-56
+activity#com.parse.starter.activity.CadastroActivity
+ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:9-72
+	android:name
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:19-60
+uses-sdk
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\78deb04c26dfa9208ea53bdc68cc5fc4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\78deb04c26dfa9208ea53bdc68cc5fc4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\46741feffefaafc9d4327294861841fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\46741feffefaafc9d4327294861841fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\1510223c2c3cc1342fd367c82d47458f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\1510223c2c3cc1342fd367c82d47458f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c124c38dd424986c5af8e76e1f345d1a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c124c38dd424986c5af8e76e1f345d1a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b89ad9889902cc8655e7e6f4efaf9e59\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b89ad9889902cc8655e7e6f4efaf9e59\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c618bd6de357b83ca16e9d8b87290f92\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c618bd6de357b83ca16e9d8b87290f92\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\aaa96a95e67df08457fd17cc4593c448\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\aaa96a95e67df08457fd17cc4593c448\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dc3c4580b4bf76c526d68950fddebf1e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dc3c4580b4bf76c526d68950fddebf1e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\5b2c8148aa5a7b61e4c5621ff7140c1d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\5b2c8148aa5a7b61e4c5621ff7140c1d\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\Douglas\workspace_mobile\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\46741feffefaafc9d4327294861841fd\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\46741feffefaafc9d4327294861841fd\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\1510223c2c3cc1342fd367c82d47458f\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\1510223c2c3cc1342fd367c82d47458f\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c124c38dd424986c5af8e76e1f345d1a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c124c38dd424986c5af8e76e1f345d1a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b89ad9889902cc8655e7e6f4efaf9e59\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\b89ad9889902cc8655e7e6f4efaf9e59\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c618bd6de357b83ca16e9d8b87290f92\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c618bd6de357b83ca16e9d8b87290f92\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\aaa96a95e67df08457fd17cc4593c448\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\aaa96a95e67df08457fd17cc4593c448\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dc3c4580b4bf76c526d68950fddebf1e\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dc3c4580b4bf76c526d68950fddebf1e\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\5b2c8148aa5a7b61e4c5621ff7140c1d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\5b2c8148aa5a7b61e4c5621ff7140c1d\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Marques\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\7c2b68318d2617c7c1934dde0254bf2a\AndroidManifest.xml:26:9-47
